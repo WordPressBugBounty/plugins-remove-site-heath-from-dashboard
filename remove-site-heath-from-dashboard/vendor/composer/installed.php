@@ -3,7 +3,7 @@
         'name' => 'fullworks/remove-site-health-dashboard-widget',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '61afa32663dcdb1dbee78d04c51bbaaa2a0e9d2b',
+        'reference' => 'a7d7dca317b71b2e704cb6d8f83db8b999c6afee',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -33,7 +33,7 @@
         'fullworks/remove-site-health-dashboard-widget' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '61afa32663dcdb1dbee78d04c51bbaaa2a0e9d2b',
+            'reference' => 'a7d7dca317b71b2e704cb6d8f83db8b999c6afee',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
