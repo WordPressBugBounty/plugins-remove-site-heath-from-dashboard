@@ -3,7 +3,7 @@
         'name' => 'fullworks/remove-site-health-dashboard-widget',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'a7d7dca317b71b2e704cb6d8f83db8b999c6afee',
+        'reference' => 'b462f11106a49c479ef77bb0faab6b624a11fa99',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,14 +11,12 @@
     ),
     'versions' => array(
         'alanef/free_plugin_lib' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '43f4f538d247dd696a47ed08e4a5b4dde15c7daa',
+            'pretty_version' => 'v1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => 'ed52c33c73999a1fe1ee5a1b00581b9462111ac8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../alanef/free_plugin_lib',
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
+            'aliases' => array(),
             'dev_requirement' => false,
         ),
         'composer/installers' => array(
@@ -33,7 +31,7 @@
         'fullworks/remove-site-health-dashboard-widget' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'a7d7dca317b71b2e704cb6d8f83db8b999c6afee',
+            'reference' => 'b462f11106a49c479ef77bb0faab6b624a11fa99',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
